@@ -1,2 +1,0 @@
-[2024-07-06T20:04:52.983788800]	/127.0.0.1:52773 GET CODE_404 - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-[2024-07-06T20:04:58.341331700]	/127.0.0.1:52779 GET CODE_404 - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
